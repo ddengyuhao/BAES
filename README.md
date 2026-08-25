@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/status-manuscript-lightgrey.svg)
+[![Python](https://img.shields.io/badge/Python-3.10-green.svg)]()
+[![Framework](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)]()
 
 **BAES** is a framework for budget-aware query processing over long videos. It uses pretrained vision and multimodal models and requires no task-specific training. BAES organizes a video as a reusable event graph and selects a query-specific set of events under a visual-token budget. The current evaluation focuses on multiple-choice long-video question answering.
 
