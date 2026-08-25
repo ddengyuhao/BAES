@@ -8,8 +8,8 @@
 **BAES** is a framework for budget-aware query processing over long videos. It uses pretrained vision and multimodal models and requires no task-specific training. BAES organizes a video as a reusable event graph and selects a query-specific set of events under a visual-token budget. The current evaluation focuses on multiple-choice long-video question answering.
 
 [Overview](#overview) · [Method](#method) · [Reported Results](#reported-results) ·
-[Artifact Status](#artifact-status) · [Data and Credentials](#data-and-credentials) ·
-[Citation](#citation) · [License](#license)
+[Installation](#installation) · [Data Preparation](#data-and-credentials) · [Usage](#usage) ·
+[Citation](#citation) 
 
 </div>
 
